@@ -14,7 +14,7 @@ Modular code: Separate scripts for training (main.py) and the web app (app.py).<
 Dataset
 The project uses the Enron Spam Dataset, which contains thousands of emails labeled as spam or ham.
 Note: Due to size and licensing restrictions, the dataset is not included in this repository.
-You can download it from Kaggle
+You can download it from Kaggle<br>
 Project Structure:<br>
 ├── data/
 │   └── enron_spam_data.csv    # Place your dataset here (not included)<br>
