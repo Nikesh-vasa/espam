@@ -10,7 +10,7 @@ Interactive GUI: Streamlit app to input any email text and predict spam or ham i
 
 Model persistence: Saves trained model and vectorizer objects using joblib for easy reuse.
 
-Modular code: Separate scripts for training (main.py) and the web app (app.py).
+Modular code: Separate scripts for training (main.py) and the web app (app.py).<br>
 Dataset
 The project uses the Enron Spam Dataset, which contains thousands of emails labeled as spam or ham.
 Note: Due to size and licensing restrictions, the dataset is not included in this repository.
